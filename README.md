@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @steven-thomas93
 - 👀 I’m interested in ... Video Games, learning to code
-- 🌱 I’m currently learning ... HTML, CSS, Ruby/JS
+- 🌱 I’m currently learning ... HTML, CSS, Ruby and/or JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... steven_thomas93@proton.me
 
